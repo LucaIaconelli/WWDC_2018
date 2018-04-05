@@ -25,6 +25,9 @@ var columns = 5
 
 # Forms
 Of course the 🎮 wouldn't 🏁 right here. Sometimes play with ◻️ will get a little bit 😪, so thinking on these moments the 🎮 also provides you the option to change the square for your 😍 🍎 device, and also other forms or 🔢.
+
+![All Devices](Colorpad.playgroundbook/Contents/Chapters/Welcome.playgroundchapter/Resources/all_devices.jpg)
+
 ```
 var boardType:BoardType = .square
 ```
