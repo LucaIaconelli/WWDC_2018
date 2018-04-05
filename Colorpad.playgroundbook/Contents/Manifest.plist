@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SwiftVersion</key>
+	<string>4.0</string>
+	<key>ImageReference</key>
+	<string>colorpad_playgroundbook_cover.png</string>
+	<key>Chapters</key>
+	<array>
+		<string>Welcome.playgroundchapter</string>
+	</array>
+	<key>ContentIdentifier</key>
+	<string>com.luca.iaconelli</string>
+	<key>ContentVersion</key>
+	<string>1.0</string>
+	<key>DeploymentTarget</key>
+	<string>ios10.0</string>
+	<key>Name</key>
+	<string>Colorpad</string>
+	<key>Version</key>
+	<string>1.0</string>
+</dict>
+</plist>
